@@ -1,0 +1,15 @@
+Source index,Original,Proposed filename,Purpose,Privacy status
+0,lab screenshots 2/Original-Photo-Landscape-Corrected.png,Phase-1/01-Hardware/Host-Hardware-Checks.png,"CPU, RAM, and disk checks",REVIEW REQUIRED - terminal prompt/usernames may be visible; do not publish yet
+3,lab screenshots 2/Screenshot 2026-10-19 211759.png,Phase-1/04-Updates/Successful-Package-Refresh.png,Proxmox package refresh result,REVIEW REQUIRED - verify no sensitive details before publishing
+5,lab screenshots 2/Screenshot 2026-10-19 212511.png,Phase-1/04-Updates/Package-Upgrade-Output.png,Proxmox upgrade output,REVIEW REQUIRED - terminal prompt/usernames may be visible; do not publish yet
+7,lab screenshots 2/Screenshot 2026-10-19 214331.png,Phase-1/03-Network/DHCP-Reservation-Setup.png,Router DHCP reservation,REVIEW REQUIRED - verify no sensitive details before publishing
+8,lab screenshots 2/Screenshot 2026-10-19 214756.png,Phase-1/03-Network/DHCP-Reservation-Confirmed.png,Router reserved address,REVIEW REQUIRED - verify no sensitive details before publishing
+12,lab screenshots 2/Screenshot 2026-10-19 225402.png,Phase-1/02-Proxmox/Storage-Overview.png,Proxmox storage view,REVIEW REQUIRED - verify no sensitive details before publishing
+15,lab screenshots 2/Screenshot 2026-10-19 225803.png,Phase-1/02-Proxmox/Host-Dashboard.png,Proxmox dashboard,REVIEW REQUIRED - verify no sensitive details before publishing
+126,lab screenshots 2/Screenshot 2026-10-25 192632.png,Phase-1/03-Network/Management-Network-Configuration.png,Management network installation settings,REVIEW REQUIRED - verify no sensitive details before publishing
+26,lab screenshots 2/Screenshot 2026-10-19 234340.png,Phase-2/01-Ubuntu-VM/VM-Configuration-Summary.png,Ubuntu VM settings,REVIEW REQUIRED - verify no sensitive details before publishing
+25,lab screenshots 2/Screenshot 2026-10-19 234254.png,Phase-2/01-Ubuntu-VM/VM-Network-Adapter.png,Ubuntu VM network adapter,REVIEW REQUIRED - verify no sensitive details before publishing
+43,lab screenshots 2/Screenshot 2026-10-20 192622.png,Phase-2/02-Isolated-Bridge/VM-Network-vmbr1.png,Virtual network device on vmbr1,REVIEW REQUIRED - verify no sensitive details before publishing
+45,lab screenshots 2/Screenshot 2026-10-20 193647.png,Phase-2/03-Guest-Agent/Guest-Agent-Active.png,Guest agent service status,REVIEW REQUIRED - terminal prompt/usernames may be visible; do not publish yet
+49,lab screenshots 2/Screenshot 2026-10-20 202024.png,Phase-2/04-Static-IP/Netplan-Configuration.png,Netplan static IP settings,REVIEW REQUIRED - terminal prompt/usernames may be visible; do not publish yet
+53,lab screenshots 2/Screenshot 2026-10-20 204755.png,Phase-2/05-Connectivity/Isolated-Route-and-Ping.png,Connectivity checks and routing,REVIEW REQUIRED - terminal prompt/usernames may be visible; do not publish yet
